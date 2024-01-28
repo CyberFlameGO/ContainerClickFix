@@ -1,0 +1,10 @@
+name: ContainerClickFix
+version: '${project.version}'
+main: me.xginko.containerclickfix.ContainerClickFix
+authors: [ xGinko ]
+description: '${project.description}'
+depend: [ ProtocolLib ]
+api-version: '1.19'
+load: STARTUP
+folia-supported: true
+website: github.com/xGinko
